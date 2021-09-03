@@ -1,8 +1,8 @@
 package java_methods;
 
 /*
-Methods are action called functions.
-Method can be reuse code
+Methods are action called functions which is used to expose the behavior of an object.
+Method can be reuse and optimization the code
 */
 
 public class JavaMethods {

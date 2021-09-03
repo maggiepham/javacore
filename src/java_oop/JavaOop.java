@@ -1,4 +1,4 @@
-package java_classes;
+package java_oop;
 
 
 public class JavaOop{
