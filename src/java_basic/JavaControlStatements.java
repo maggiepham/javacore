@@ -19,15 +19,19 @@ public class JavaControlStatements {
 			}
 			
 	 * 	- if-else-if ladder
-	 * 		if(condition) {
+	 * 		if(condition 1) {
 				statement 1; // executes when condition is true
 		
 			} 
-			else if {
+			else if (condition 2){
 				statement 2; // executes when condition is true
 			} 
+			else if (condition 3) {
+				statement 3; // executes when condition is true
+			}
+			...
 			else {
-				statement 2; // executes when condition is false
+				execute if all the conditions are false
 			}
 			
 	 *  - Nested if-statement

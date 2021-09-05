@@ -114,13 +114,16 @@ public class JavaOperators {
 //		int min=(a2>b2)?a2:b2;  
 		System.out.println("Ternary operator: " + min);
 		
-		// Assignment Operator
+		System.out.println("====Assignment Operator====");
 		int assignOne=10;  
 		int assignTwo=20;  
+		int assignThree = 17;
 		assignOne+=4;//assignOne=assignOne+4 (assignOne=10+4)  
 		assignTwo-=4;//assignTwo=assignTwo-4 (assignTwo=20-4)  
+		assignThree %= 3;
 		System.out.println(assignOne);  
 		System.out.println(assignTwo); 
+		System.out.println("%= is " + assignThree);
 		
 		int aFirst=10;  
 		aFirst+=3;//10+3  

@@ -9,7 +9,7 @@ public class JavaOop{
 	 * OOP makes full reuable applications with less code and shorter development time
 	 * Classes and Objects are the two main aspects(khia canh) of OOP
 	 * Class: Fruit || Objects: Apple, Banana, Mango
-	 * When the individual objects are created, they inherit all the variables and methods from the class 
+	 * When the individual objects are c]reated, they inherit all the variables and methods from the class 
 	 */
 
 	public static void main(String[] args) {
